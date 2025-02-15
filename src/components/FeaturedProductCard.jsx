@@ -8,7 +8,7 @@ const featuredproducts = [
   {
     id: nanoid(),
     img: REDOXGoldCom,
-    url: "https://shop.aseaglobal.com/products/5763?sponsorId=180SHS7BCD&m=7&st=ps",
+    url: "https://shop.aseaglobal.com/products/5763?sponsorId=A8SS78HADS&m=7&st=ps",
     title: "REDOXGold™",
     className: "rounded-md mb-4 size-48",
     text: "REDOXGold™ absorbs quickly for fast-acting comfort and soothing relief with lasting results.",
@@ -18,7 +18,7 @@ const featuredproducts = [
   {
     id: nanoid(),
     img: Ebundle,
-    url: "https://shop.aseaglobal.com/products/5584?sponsorId=180SHS7BCD&m=7&st=ps",
+    url: "https://shop.aseaglobal.com/products/5584?sponsorId=A8SS78HADS&m=7&st=ps",
     title: "Essential Bundle",
     text: "6 bottles of ASEA Redox Cell Signaling Supplement, 1 tube of RENU28 Revitalizing Redox Gel, Shipping included",
     className: "rounded-md mb-4 size-48",
@@ -28,7 +28,7 @@ const featuredproducts = [
   {
     id: nanoid(),
     img: Renu28,
-    url: "https://shop.aseaglobal.com/products/3146?sponsorId=180SHS7BCD&m=7&st=ps",
+    url: "https://shop.aseaglobal.com/products/3146?sponsorId=A8SS78HADS&m=7&st=ps",
     title: "RENU28",
     className: "rounded-md mb-4 h-52 ",
     text: "RENU28® promotes hydration, elasticity, soothing, and skin surface cellular renewal. One simple gel, so many benefits.",

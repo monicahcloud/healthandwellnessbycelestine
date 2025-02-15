@@ -14,7 +14,7 @@ const NavBar = () => {
         {/* Logo */}
         <div className="flex-shrink-0">
           <h1 className=" text-2xl font-bold tracking-wider text-cyan-600">
-            Ruth<span className="text-cyan-800">Cloud</span>{' '}
+            Andrea<span className="text-cyan-800">Carey</span>{' '}
           </h1>
         </div>
 

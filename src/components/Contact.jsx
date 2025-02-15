@@ -11,18 +11,18 @@ const Contact = () => {
    e.preventDefault()
 
    emailjs
-     .sendForm('service_h1ypbgd', 'template_5qvx3gq', form.current, {
-       publicKey: 'XnLTFneXRVkwkphGD',
+     .sendForm("service_1xsjegf", "template_520u3zj", form.current, {
+       publicKey: "XnLTFneXRVkwkphGD",
      })
      .then(
        () => {
-         console.log('SUCCESS!')
-          form.current.reset()
+         console.log("SUCCESS!");
+         form.current.reset();
        },
        (error) => {
-         console.log('FAILED...', error.text)
+         console.log("FAILED...", error.text);
        }
-     )
+     );
  }
 
   return (
@@ -32,24 +32,29 @@ const Contact = () => {
           {/* Left Column: Contact Information */}
           <div className="flex flex-col space-y-8 md:w-1/2">
             <h1 className="font-bold text-5xl tracking-wide text-center">
-              Get in touch with Ruth
+              Get in touch with Andrea
             </h1>
             <p className="pt-2 text-cyan-100 text-md">
-              Are you ready to take control of your health and well-being? Ruth
-              is here to help! Whether you are looking for personalized advice,
-              tips on improving your wellness, or simply want to learn more
-              about how to achieve your health goals, Ruth is just a message
-              away. Reach out today and take the first step toward a healthier,
-              happier you!
+              Are you ready to take control of your health and well-being?
+              Andrea is here to help! Whether you are looking for personalized
+              advice, tips on improving your wellness, or simply want to learn
+              more about how to achieve your health goals, Andrea is just a
+              message away. Reach out today and take the first step toward a
+              healthier, happier you!
             </p>
             <div className="flex flex-col space-y-6">
-              <div className="inline-flex space-x-2 items-center">
+              <div className="inline-flex space-x-2 items-center gap-4">
                 <BsTelephoneFill className="text-teal-300 text-xl" />
-                <span>(678) 300-3789</span>
+                <span>
+                  <h4 className="text-teal-300 text-lg">United States</h4> (786)
+                  930-2373
+                </span>
+                <span> <h4 className="text-teal-300 text-lg">Bahamas</h4>
+               (242) 808-0346</span>
               </div>
               <div className="inline-flex space-x-2 items-center">
                 <MdEmail className="text-teal-300 text-xl" />
-                <span>ruthncloud@gmail.com</span>
+                <span>andreajohnsoncarey@gmail.com</span>
               </div>
               {/* <div className="inline-flex space-x-2 items-center">
                 <FaLocationDot className="text-teal-300 text-xl" />
@@ -109,7 +114,7 @@ const Contact = () => {
         </div>
       </div>
     </div>
-  )
+  );
 };
 
 export default Contact;

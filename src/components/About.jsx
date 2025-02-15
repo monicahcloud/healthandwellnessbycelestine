@@ -1,4 +1,4 @@
-import aboutImg from "../assets/newruthpic.png";
+import aboutImg from "../assets/andreajohnsoncareynobg.png";
 
 import Title from "./Title";
 
@@ -17,17 +17,13 @@ const About = () => {
         </div>
         <article>
           <h1 className=" text-7xl font-bold tracking-wider text-cyan-600">
-            Ruth <span className="text-slate-800"> Cloud</span>{" "}
+            Andrea <span className="text-slate-800"> Carey</span>{" "}
           </h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
             Health and Wellness Coach
           </p>
           <p className="mt-4 text-1xl text-slate-700  tracking-wide">
-            With over 40 years of experience in nursing, Ruth has spent her
-            career providing compassionate care, nurturing wellness, and helping
-            countless individuals navigate their health journeys. Now retired,
-            she is passionate to continue helping others take control of their
-            well-being and live healthier lives.
+           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, expedita? Nemo accusantium eaque magnam alias perferendis aliquid fugiat magni quaerat repellat molestias deleniti est eius laudantium, doloremque aperiam non! Animi..
           </p>
         </article>
       </div>
@@ -61,10 +57,10 @@ const About = () => {
               {/* <a href={url} target="_blank">
                       <TbWorldWww className="h-14 w-14 text-cyan-600 hover:text-cyan-400 duration-300" />
                     </a>{' '} */}
-              <a href="https://1800807234.myasealive.com/" target="_blank">
+              <a href="https://1800788140.myasealive.com/" target="_blank">
                 <span>
                   {" "}
-                  <h3 className="pt-5 text-cyan-500 font-bold">
+                  <h3 className="text-2xl pt-5 text-cyan-500 font-bold">
                     Click here to Review products and lucrative business
                     opportunity
                   </h3>
