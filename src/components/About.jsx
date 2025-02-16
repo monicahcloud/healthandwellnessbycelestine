@@ -23,10 +23,13 @@ const About = () => {
             Health and Wellness Coach
           </p>
           <p className="mt-4 text-1xl text-slate-700  tracking-wide">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit,
-            expedita? Nemo accusantium eaque magnam alias perferendis aliquid
-            fugiat magni quaerat repellat molestias deleniti est eius
-            laudantium, doloremque aperiam non! Animi..
+            Andrea had dedicated over 40 years in education. During those years
+            health and wellness endeavors has always been a passion of hers. Now
+            retired, her greatest desire is to directly impact the physical and
+            mental well-being of individuals, helping them to promote longer,
+            healthier and a more fulfilling life by reducing disease risk,
+            improving quality of life, and boosting overall happiness. Her
+            greatest desire always is to be blessed to be a blessing.
           </p>
         </article>
       </div>
@@ -47,7 +50,13 @@ const About = () => {
             </h2>
             <p className="mt-4 text-slate-700 leading-loose">
               {" "}
-              Andrea had dedicated over 40 years in education. During those years health and wellness endeavors has always been a passion of hers. Now retired, her greatest desire is to directly impact the physical and mental well-being of individuals, helping them to promote longer, healthier and a more fulfilling life by reducing disease risk, improving quality of life, and boosting overall happiness. Her greatest desire always is to be blessed to be a blessing.
+              ASEA is a wellness company driven by the power of human potential.
+              Headquartered in Utah and serving a global community, ASEA is a
+              trailblazer in cellular health. As the first to introduce
+              groundbreaking redox signaling molecules, ASEA helps your cells
+              function in harmony, as they were designed to. With each product
+              and every opportunity, ASEA is committed to empowering individuals
+              and enhancing lives.
             </p>
 
             <div className="mt-4 flex gap-x-20 justify-between">
