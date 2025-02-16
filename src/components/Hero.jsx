@@ -4,7 +4,7 @@ const Hero = () => {
     <section id="home" className="bg-heroImg bg-repeat bg-cover bg-bottom ">
        <div className="w-full h-screen flex items-end bg-blackOverlay">
         <div className="container mx-auto mb-40">
-          <h1 className="text-white text-7xl max-w-2xl uppercase font-bold ">
+          <h1 className="text-white text-7xl max-w-2xl uppercase font-bold lg:text-8xl">
             Health and Wellness
           </h1>
           <p className="mt-2 text-3xl text-slate-100 capitalize tracking-wide">
