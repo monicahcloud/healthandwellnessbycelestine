@@ -23,7 +23,10 @@ const About = () => {
             Health and Wellness Coach
           </p>
           <p className="mt-4 text-1xl text-slate-700  tracking-wide">
-           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit, expedita? Nemo accusantium eaque magnam alias perferendis aliquid fugiat magni quaerat repellat molestias deleniti est eius laudantium, doloremque aperiam non! Animi..
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit,
+            expedita? Nemo accusantium eaque magnam alias perferendis aliquid
+            fugiat magni quaerat repellat molestias deleniti est eius
+            laudantium, doloremque aperiam non! Animi..
           </p>
         </article>
       </div>
@@ -53,16 +56,29 @@ const About = () => {
               and enhancing lives.
             </p>
 
-            <div className="mt-4 flex gap-x-4">
+            <div className="mt-4 flex gap-x-20 justify-between">
               {/* <a href={url} target="_blank">
                       <TbWorldWww className="h-14 w-14 text-cyan-600 hover:text-cyan-400 duration-300" />
                     </a>{' '} */}
-              <a href="https://1800788140.myasealive.com/" target="_blank">
+              <a
+                href="https://shop.aseaglobal.com/products?sponsorId=A8SS78HADS&at=true&m=7/"
+                target="_blank"
+              >
                 <span>
                   {" "}
-                  <h3 className="text-2xl pt-5 text-cyan-500 font-bold">
-                    Click here to Review products and lucrative business
-                    opportunity
+                  <h3 className="pt-5 text-2xl text-cyan-500 font-bold">
+                    Lucrative Business Opportunity
+                  </h3>
+                </span>{" "}
+              </a>
+              <a
+                href="https://shop.aseaglobal.com/products?sponsorId=A8SS78HADS&m=7"
+                target="_blank"
+              >
+                <span>
+                  {" "}
+                  <h3 className="pt-5 text-2xl text-cyan-500 font-bold">
+                    Review Products
                   </h3>
                 </span>{" "}
               </a>
