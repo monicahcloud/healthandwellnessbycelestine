@@ -1,5 +1,4 @@
-import aboutImg from "../assets/andreajohnsoncareynobg.png";
-
+import aboutImg from '../assets/blackradiantskin.avif'
 import Title from "./Title";
 
 const About = () => {
