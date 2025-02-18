@@ -17,19 +17,16 @@ const About = () => {
         </div>
         <article>
           <h1 className=" text-7xl font-bold tracking-wider text-cyan-600">
-            Andrea <span className="text-slate-800"> Carey</span>{" "}
+            Celestine <span className="text-slate-800"> Woodard</span>{" "}
           </h1>
           <p className="mt-4 text-3xl text-slate-700 capitalize tracking-wide">
             Health and Wellness Coach
           </p>
           <p className="mt-4 text-1xl text-slate-700  tracking-wide">
-            Andrea had dedicated over 40 years in education. During those years
-            health and wellness endeavors has always been a passion of hers. Now
-            retired, her greatest desire is to directly impact the physical and
-            mental well-being of individuals, helping them to promote longer,
-            healthier and a more fulfilling life by reducing disease risk,
-            improving quality of life, and boosting overall happiness. Her
-            greatest desire always is to be blessed to be a blessing.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi eaque
+            nobis repudiandae ratione consectetur, omnis provident consequuntur
+            nesciunt iure unde asperiores hic, autem itaque recusandae minima
+            quae error odio tempora?
           </p>
         </article>
       </div>
@@ -64,7 +61,7 @@ const About = () => {
                       <TbWorldWww className="h-14 w-14 text-cyan-600 hover:text-cyan-400 duration-300" />
                     </a>{' '} */}
               <a
-                href="https://shop.aseaglobal.com/products?sponsorId=A8SS78HADS&at=true&m=7/"
+                href="https://shop.aseaglobal.com/products?sponsorId=A800H3AAE9&at=true&m=7/"
                 target="_blank"
               >
                 <span>
@@ -75,7 +72,7 @@ const About = () => {
                 </span>{" "}
               </a>
               <a
-                href="https://shop.aseaglobal.com/products?sponsorId=A8SS78HADS&m=7"
+                href="https://shop.aseaglobal.com/products?sponsorId=A800H3AAE9&m=7"
                 target="_blank"
               >
                 <span>

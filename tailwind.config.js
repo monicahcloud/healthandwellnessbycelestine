@@ -8,7 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         heroImg:
-          "url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b2/8e/e3/glass-window-bridge-eleuthera.jpg?w=600&h=400&s=1')",
+          "url('public/herobg.jpg')",
         blackOverlay:
           "linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%)",
       },
