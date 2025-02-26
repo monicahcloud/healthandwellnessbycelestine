@@ -1,13 +1,13 @@
 import { nanoid } from "nanoid";
 import Ebundle from "../assets/essentialbundle.png";
 import Renu28 from "../assets/renu28.png";
-import REDOXGoldCom from "../assets/REDOXGold.jpg";
+import gold from "../assets/gold.png";
 
 
 const featuredproducts = [
   {
     id: nanoid(),
-    img: REDOXGoldCom,
+    img: gold,
     url: "https://shop.aseaglobal.com/products/5763?sponsorId=A800H3AAE9&m=7&st=ps",
     title: "REDOXGold™",
     className: "rounded-md mb-4 size-48",
