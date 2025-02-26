@@ -12,7 +12,7 @@ const featuredproducts = [
     title: "REDOXGold™",
     className: "rounded-md mb-4 size-48",
     text: "REDOXGold™ absorbs quickly for fast-acting comfort and soothing relief with lasting results.",
-    retail: "$198.00",
+    retail: "$55.00",
     subscription: "NA",
   },
   {
