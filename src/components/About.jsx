@@ -1,4 +1,4 @@
-import aboutImg from '../assets/blackradiantskin.avif'
+import aboutImg from '../assets/profile2.jpeg'
 import Title from "./Title";
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
           <article className=" md:block">
             <img
               src={aboutImg}
-              className="relative z-10 shadow-lg h-80 lg:h-90"
+              className="relative z-10 shadow-lg h-80 w-80 lg:h-90"
             />
           </article>
         </div>
